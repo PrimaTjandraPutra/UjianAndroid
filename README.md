@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh Prima Tjandra Putra
 
 ### Dibuat Oleh :
-##### Mochamad Idris
+##### Prima Tjandra Putra
 ### NIM
-##### G.111.21.1989
+##### G.211.20.0098
